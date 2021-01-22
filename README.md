@@ -8,3 +8,6 @@ Demonstrates NLP tasks including:
 * Exploring N-grams
 * Topic modelling
 * Search with BERT
+
+As the notebook was originally developed within Google Colab, it looks to mount a Google Drive.
+Just change the path if necessary when reading in the .csv dataset with pd.read_csv
